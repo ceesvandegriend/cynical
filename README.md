@@ -1,2 +1,2 @@
-# cynical
-cncl / cynical
+# cncl
+Cynical
